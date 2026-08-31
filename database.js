@@ -667,8 +667,7 @@ addBhalaniData("Biochemistry", "Bhalani 3.0", BIOCHEMISTRY_DATA);
 // Microbiology / FMT addQ(...) entries below this line.
 // ------------------------------------------------------------
 
-const ULTRA = {
-    "Pharmacology": [
+const PHARMACOLOGY_DATA [
         "Antiepileptic drugs",
         "Antimalarial drugs / ACT",
         "Antitubercular drugs / MDR-TB",
